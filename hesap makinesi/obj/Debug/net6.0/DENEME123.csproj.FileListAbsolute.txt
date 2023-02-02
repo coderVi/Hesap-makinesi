@@ -1,0 +1,15 @@
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\bin\Debug\net6.0\DENEME123.exe
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\bin\Debug\net6.0\DENEME123.deps.json
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\bin\Debug\net6.0\DENEME123.runtimeconfig.json
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\bin\Debug\net6.0\DENEME123.dll
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\bin\Debug\net6.0\DENEME123.pdb
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\DENEME123.csproj.AssemblyReference.cache
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\DENEME123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\DENEME123.AssemblyInfoInputs.cache
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\DENEME123.AssemblyInfo.cs
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\DENEME123.csproj.CoreCompileInputs.cache
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\DENEME123.dll
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\refint\DENEME123.dll
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\DENEME123.pdb
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\DENEME123.genruntimeconfig.cache
+C:\Users\mrasm\source\repos\ConsoleApp1\DENEME123\obj\Debug\net6.0\ref\DENEME123.dll
